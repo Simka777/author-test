@@ -1,0 +1,10 @@
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\bin\Debug\Author.exe.config
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\bin\Debug\Author.exe
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\bin\Debug\Author.pdb
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\obj\Debug\Author.csprojAssemblyReference.cache
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\obj\Debug\Author.Form1.resources
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\obj\Debug\Author.Properties.Resources.resources
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\obj\Debug\Author.csproj.GenerateResource.cache
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\obj\Debug\Author.csproj.CoreCompileInputs.cache
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\obj\Debug\Author.exe
+D:\Подработочка\Курсачі\Денчик 1 курс\Author\obj\Debug\Author.pdb
